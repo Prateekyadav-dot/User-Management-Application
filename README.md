@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -71,3 +72,7 @@ export default defineConfig([
   },
 ])
 ```
+=======
+# User-Management-Application
+  🔹 Display all users in a clean UI  🔹 Add new users  🔹 Edit/Update existing users  🔹 Delete users  🔹 State management using Zustand (optional but supported)  🔹 Fully responsive design  🔹 Beginner-friendly project structure
+>>>>>>> 354317c63264188eb4c5f935c2c8a40541f20217
